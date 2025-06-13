@@ -1,13 +1,28 @@
 {
-    "response": [
-        {
-            "datetime": ,
-            "filename": "AlphaDroid-15-20250604-vanilla-fog-v3.2.zip",
-            "id": "",
-            "romtype": "UNOFFICIAL",
-            "size": ,
-            "url": "https://cloud.mail.ru/public/oAUs/57tZEt667",
-            "version": "3.2"
-        }
-    ]
+ "response": [
+  {
+   "maintainer": "Romeo13card",
+   "oem": "Xiaomi",
+   "device": "Xiaomi Redmi 10C",
+   "filename": "AlphaDroid-15-20250604-vanilla-fog-v3.2.zip",
+   "download": "https://cloud.mail.ru/public/oAUs/57tZEt667",
+   "timestamp": ,
+   "md5": "c27f48f929377cd29f23684fcdc1403a",
+   "sha256": "e3d2c47425142819f41a445d68cd4951a6bdac62da776d92453246e228489c6e",
+   "size":1175305948 ,
+   "version": "3.2",
+   "buildtype": "vanilla",
+   "forum": "https://t.me/alphadroid_chat",
+   "gapps": "",
+   "firmware": "",
+   "modem": "",
+   "bootloader": "",
+   "recovery": "",
+   "paypal": "",
+   "telegram": "https://t.me/Romeo13card_builds",
+   "dt": "",
+   "common-dt": "",
+   "kernel": ""
+  }
+ ]
 }
