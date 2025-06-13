@@ -2,8 +2,8 @@
  "response": [
   {
    "maintainer": "Romeo13card",
-   "oem": "Xiaomi",
-   "device": "Xiaomi Redmi 10C",
+   "oem": "redmi",
+   "device": "fog,rain,wind",
    "filename": "AlphaDroid-15-20250604-vanilla-fog-v3.2.zip",
    "download": "https://cloud.mail.ru/public/oAUs/57tZEt667",
    "timestamp": ,
