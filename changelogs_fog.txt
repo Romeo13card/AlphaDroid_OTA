@@ -1,0 +1,17 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi 10C
+Device maintainer: Romeo13card
+
+====================
+     18-05.2025
+====================
+- Initial release since 2.6.1
+- Updated to version 3.2
+- Security patch for May 2025
+
+====================
+     13-06-2025
+====================
+- Sync with latest source update
+- Signed Build
